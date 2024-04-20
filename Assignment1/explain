@@ -1,0 +1,7 @@
+Landing Page with Carousel
+In this project, we'll create a landing page featuring a carousel that automatically cycles through images, providing an engaging visual experience for users.
+
+Technologies Used
+HTML: Structure the web page by defining the carousel container, slides, and navigation buttons.
+CSS: Style the carousel and its components to achieve an attractive layout and design.
+JavaScript: Implement carousel functionality, including image transitions and navigation.
