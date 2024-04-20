@@ -1,0 +1,6 @@
+In this project, we're creating a chocolate shopping app where users can browse different types of chocolates, select the quantity they want to purchase, and add them to a shopping cart. The app will display chocolate products with their images, names, prices, descriptions, and quantity selectors. The selected chocolates will be dynamically added to the cart, and the total cost will be calculated in real-time.
+
+Technologies Used
+HTML: Used for structuring the web page and creating the user interface components like chocolate cards, quantity selectors, and the shopping cart display.
+CSS: Used for styling the HTML elements to make the app visually appealing, including layout, colors, fonts, and responsiveness for different screen sizes.
+JavaScript: Used for implementing the app's logic, including dynamic rendering of chocolate products, handling user interactions (such as clicking on chocolate cards and adding items to the cart), and updating the cart's contents and total price.
